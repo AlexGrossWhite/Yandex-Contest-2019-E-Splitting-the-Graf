@@ -1,0 +1,15 @@
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\E Splitting the Graf\E Splitting the Graf\bin\Debug\net7.0\E Splitting the Graph.exe
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\E Splitting the Graf\E Splitting the Graf\bin\Debug\net7.0\E Splitting the Graph.deps.json
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\E Splitting the Graf\E Splitting the Graf\bin\Debug\net7.0\E Splitting the Graph.runtimeconfig.json
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\E Splitting the Graf\E Splitting the Graf\bin\Debug\net7.0\E Splitting the Graph.dll
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\E Splitting the Graf\E Splitting the Graf\bin\Debug\net7.0\E Splitting the Graph.pdb
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\E Splitting the Graf\E Splitting the Graf\obj\Debug\net7.0\E Splitting the Graph.csproj.AssemblyReference.cache
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\E Splitting the Graf\E Splitting the Graf\obj\Debug\net7.0\E Splitting the Graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\E Splitting the Graf\E Splitting the Graf\obj\Debug\net7.0\E Splitting the Graph.AssemblyInfoInputs.cache
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\E Splitting the Graf\E Splitting the Graf\obj\Debug\net7.0\E Splitting the Graph.AssemblyInfo.cs
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\E Splitting the Graf\E Splitting the Graf\obj\Debug\net7.0\E Splitting the Graph.csproj.CoreCompileInputs.cache
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\E Splitting the Graf\E Splitting the Graf\obj\Debug\net7.0\E Splitting the Graph.dll
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\E Splitting the Graf\E Splitting the Graf\obj\Debug\net7.0\refint\E Splitting the Graph.dll
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\E Splitting the Graf\E Splitting the Graf\obj\Debug\net7.0\E Splitting the Graph.pdb
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\E Splitting the Graf\E Splitting the Graf\obj\Debug\net7.0\E Splitting the Graph.genruntimeconfig.cache
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\E Splitting the Graf\E Splitting the Graf\obj\Debug\net7.0\ref\E Splitting the Graph.dll
